@@ -1,0 +1,10 @@
+html,
+ body {
+   height: 100%;
+   width: 100%;
+
+ }
+ 
+.background-color{
+  background-color: #F5F5F5;
+}

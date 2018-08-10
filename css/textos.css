@@ -1,0 +1,14 @@
+.texto {
+font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0px;
+  text-transform: none;
+  color: #939393;
+  text-decoration: none; }
+
+  .texto-centro{
+    text-align: center;
+    color: #03A9F4;
+  }
